@@ -4,3 +4,11 @@ body{
     background: url();
     background-size: cover;
 }
+
+#board{
+    width: 540px;
+    height: 540px;background-color: aqua;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
